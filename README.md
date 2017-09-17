@@ -1,14 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to OneDark
+Having a consistant styled interface is important, as it is not only making your workstation much more beautiful, but also doesn't distract as much as completely different looking programs squashed together. 
 
-You can use the [editor on GitHub](https://github.com/paperbenni/One-Dark-Ubuntu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### The Theme
+This theme combines the simple elegance of MacOs with the colorscheme of Atom so that the transition between the electron GUI of electron and your desktop environment is less painfull. Just Install This theme and enjoy a really unique looking interface that matches really well with gitkraken and Atom
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+``markdown
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +22,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+``
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
