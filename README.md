@@ -3,10 +3,18 @@ Having a consistant styled interface is important, as it is not only making your
 
 ### The Theme
 This theme combines the simple elegance of MacOs with the colorscheme of Atom so that the transition between the electron GUI of electron and your desktop environment is less painfull. Just Install This theme and enjoy a really unique looking interface that matches really well with gitkraken and Atom
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+
+### Installation
+
+```bash
+$ mkdir ~/.themes
+$ cd ~/.themes
+$ git clone https://github.com/paperbenni/One-Dark-Ubuntu.git
 ```
+Then use Unity Tweak Tool
+```bash
+$sudo apt install unity-tweak-tool
+```
+if you havan't installed it allready and navigate to: Theme --> One Dark
+
+#Booom! There you have it!
