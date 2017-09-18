@@ -15,6 +15,6 @@ Then use Unity Tweak Tool
 ```bash
 $sudo apt install unity-tweak-tool
 ```
-if you havan't installed it allready and navigate to: Theme --> One Dark
+if you havan't installed it allready and navigate to: Theme > One Dark
 
-#Booom! There you have it!
+# Booom! There you have it!
