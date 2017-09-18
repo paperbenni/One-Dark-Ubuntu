@@ -13,7 +13,7 @@ $ git clone https://github.com/paperbenni/One-Dark-Ubuntu.git
 ```
 Then use Unity Tweak Tool
 ```bash
-$sudo apt install unity-tweak-tool
+$ sudo apt install unity-tweak-tool
 ```
 if you havan't installed it allready and navigate to: Theme > One Dark
 
